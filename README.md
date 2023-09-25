@@ -16,5 +16,5 @@ I am committed to exploring the vast potential of data science to address comple
 
 I'm always excited to connect with like-minded individuals who share a passion for both medicine and data science. Whether you're a fellow healthcare enthusiast or a data science enthusiast, let's collaborate, share insights, and explore the exciting possibilities at the intersection of our interests.
 
-Feel free to reach out to me at [your email address] or connect with me on [LinkedIn](your LinkedIn profile URL). Let's embark on this data-driven healthcare journey together!
+Feel free to reach out to me at fernandomazate@gmail.com. Let's embark on this data-driven healthcare journey together!
 
