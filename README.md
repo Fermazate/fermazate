@@ -2,7 +2,7 @@
 
 # About Me
 
-Hello! I'm [Tu Nombre], a medical professional with a strong fascination for the intersection of medicine and data science. My journey has taken me from the world of aesthetic medicine and hair transplantation to the exciting realm of data-driven healthcare solutions.
+Hello! I'm Brandon Mazate, a medical professional with a strong fascination for the intersection of medicine and data science. My journey has taken me from the world of aesthetic medicine and hair transplantation to the exciting realm of data-driven healthcare solutions.
 
 ## Passion for Data Science
 
