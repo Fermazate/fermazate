@@ -1,4 +1,4 @@
-# Dr. Brandon Fernando Mazate
+# Brandon Fernando Mazate
 
 # About Me
 
