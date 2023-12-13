@@ -18,3 +18,14 @@ I'm always excited to connect with like-minded individuals who share a passion f
 
 Feel free to reach out to me at fernandomazate@gmail.com. Let's embark on this data-driven healthcare journey together!
 
+## My projects
+
+### Introduction to "Ten Year CHD Prediction" Project
+
+[Ten Year CHD project](https://github.com/Fermazate/Heart-Disease-Prediction)
+
+In my "Ten Year CHD Prediction" project, I developed models to predict the 10-year risk of Coronary Heart Disease (CHD) in patients. The project encompassed data cleaning, exploratory analysis, feature engineering, and data visualization, with an emphasis on addressing data imbalance through SMOTE analysis. Various predictive models were tested to evaluate their effectiveness. While the initial accuracy was moderate, this project sets the stage for my subsequent "Tuning Project," where I aim to refine and enhance model performance, showcasing the iterative nature and improvement potential in data science.
+
+### Tuning project.
+
+-- In progress. 
