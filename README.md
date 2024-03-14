@@ -26,6 +26,6 @@ Feel free to reach out to me at fernandomazate@gmail.com. Let's embark on this d
 
 In my "Ten Year CHD Prediction" project, I developed models to predict the 10-year risk of Coronary Heart Disease (CHD) in patients. The project encompassed data cleaning, exploratory analysis, feature engineering, and data visualization, with an emphasis on addressing data imbalance through SMOTE analysis. Various predictive models were tested to evaluate their effectiveness. While the initial accuracy was moderate, this project sets the stage for my subsequent "Tuning Project," where I aim to refine and enhance model performance, showcasing the iterative nature and improvement potential in data science.
 
-### Tuning project.
+### Pubmed Scraper.
 
 -- In progress. 
